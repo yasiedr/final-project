@@ -1,0 +1,14 @@
+.Footer__body > a {
+    margin: 0 0.4rem;
+  }
+  .Footer__body > a > svg {
+    font-size: 1.2rem;
+    transition: all 400ms ease;
+    color: blue;
+    
+  }
+  .class{
+    justify-content: center;
+    align-items: center;
+  
+  }
